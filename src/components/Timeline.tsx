@@ -43,8 +43,8 @@ const entries: TimelineEntry[] = [
     company: 'University of Toronto',
     location: 'Toronto, ON, Canada',
     description:
-      'Specialized in Computer Science with an emphasis on AI. Capstone project using computer vision to determine clothing sizes for online retail.',
-    tags: ['Algorithms', 'Distributed Systems', 'C++', 'Java'],
+      'Specialized in Computer Science with a Minor on AI. Capstone project using computer vision to determine clothing sizes for online retail.',
+    tags: ['Data Structures and Algorithms', 'Distributed Systems', 'Operating systems', 'Python', 'Java', 'Mathematics', 'Statistics'],
   },
 ];
 
