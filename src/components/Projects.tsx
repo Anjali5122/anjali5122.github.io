@@ -13,14 +13,14 @@ const projects: Project[] = [
     title: 'Xero - Purchase Orders',
     description:
       'Redesigned the purchase order creation flow in Xero’s accounting software, improving usability and reducing errors. Implemented a microservices architecture to handle complex business logic and integrations.',
-    tags: ['React', 'Javascript', 'Typescript', 'Microservices'],
+    tags: ['React', 'Javascript', 'Typescript', 'Microservices', 'C#', '.NET'],
     liveUrl: 'https://www.xero.com/ca/accounting-software/create-purchase-orders/',
   },
   {
     title: 'Xero - Inventory Plus',
     description:
       'Launched Inventory Plus, a new inventory management feature in Xero’s accounting software. Led the development of the backend services using PHP, and implemented a modern frontend using React. Additonal functionality includes integration with third parties (Amazon, Shopify) and ability to manage inventory across multiple locations.',
-    tags: ['Rust', 'CLI', 'Open Source'],
+    tags: ['React', 'Javascript', 'Typescript', 'PHP', 'Teamcity', 'k6', 'Terraform'],
     liveUrl: 'https://www.xero.com/us/accounting-software/manage-inventory/inventory-plus/',
   },
   // {
