@@ -41,7 +41,7 @@ const projects: Project[] = [
   {
     title: 'Computer Vision Clothing Size Estimator',
     description:
-      'Capstone project using OpenCV and a custom CNN to estimate clothing sizes from user-uploaded photos. Achieved 85% accuracy on a test set of 1,000 images.',
+      'Capstone project using Computer Vision to estimate clothing sizes from user-uploaded photos. Achieved 85% accuracy on a test set of 1,000 images.',
     tags: ['Python', 'Javascript'],
   },
 ];
