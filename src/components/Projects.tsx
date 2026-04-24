@@ -35,16 +35,14 @@ const projects: Project[] = [
     title: 'Bank Statement Generator',
     description:
       'Bank statement generator that creates realistic  bank statements PDFs for testing financial applications. Customizable column and transactions.',
-    tags: ['Javascript', 'Typescript', 'Python'],
-    liveUrl: '#',
-    githubUrl: '#',
+    tags: ['Javascript', 'Typescript'],
+    githubUrl: 'https://github.com/anjali-xero/bank-statement-creator',
   },
   {
     title: 'Computer Vision Clothing Size Estimator',
     description:
       'Capstone project using OpenCV and a custom CNN to estimate clothing sizes from user-uploaded photos. Achieved 85% accuracy on a test set of 1,000 images.',
     tags: ['Python', 'Javascript'],
-    githubUrl: '#',
   },
 ];
 
